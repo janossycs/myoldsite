@@ -16,21 +16,6 @@ We encourage you to create honest connections with your potential clients. Take 
 
 The next step is getting the look you want to the page. We added custom filters (standard black, blue, green, orange, red) that give an edge to the page. We can't want to see what you choose and use! We adjusted the transparency of the filters so any image can look good. Go ahead, try and use your own! You'll see how great it looks with our design.
 
-IMPORTANT - If you want to integrate a third party service for register emails we've made a tutorial here:  http://blog.creative-tim.com/web-development/set-mailchimp-custom-coming-soon-page/
-
-## Links:
-
-+ [Live Preview](http://demos.creative-tim.com/coming-sssoon-demo-image-background)
-
-## Quick start
-
-Quick start options:
-
-- [Download from Github](https://github.com/creativetimofficial/coming-sssoon-page.git).
-- [Download from Creative Tim](https://www.creative-tim.com/product/coming-sssoon-page).
-- Clone the repo: `git clone https://github.com/creativetimofficial/coming-sssoon-page.git`.
-
-
 ### What's included
 
 Within the download you'll find the following directories and files:
@@ -54,36 +39,8 @@ x_coming_sssoon_page/
 
 ```
 
-### Version logs
-
-V1.3.2, 10 Feb 2017 [current version]
-- switched to MIT license .
-
-
 ### License
 
-- Copyright 2017 Creative Tim (http://www.creative-tim.com)
 - Licensed under MIT (https://github.com/creativetimofficial/coming-sssoon-page/blob/master/LICENSE.md)
 
 
-## Useful Links
-
-More products from Creative Tim: <http://www.creative-tim.com/products>
-
-Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
-
-Freebies: <http://www.creative-tim.com/products>
-
-Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new>
-
-Social Media:
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
